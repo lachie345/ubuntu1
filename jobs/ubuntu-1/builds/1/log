@@ -1,0 +1,6 @@
+Started by user [8mha:////4AJh10PdVJVoqn1oKSgRc6xjw5t02BSdKuv+VW8nP6wbAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgZu/dLi1CL9xJTczDwAfXVmD8AAAAA=[0msai
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/ubuntu-1
+[ubuntu-1] $ /bin/sh -xe /tmp/jenkins9361183950762488960.sh
++ mkdir ubuntu
+Finished: SUCCESS
